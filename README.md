@@ -103,4 +103,7 @@ MIT
 
 ## Authors
 
-- Your Name(s) Here
+- [Shivraj Kolwankar](https://github.com/shivraj0124)
+- [Yash Mulik](https://github.com/YashMulik2005)
+- [Yash Aghane](https://github.com/yashaghane21)
+- [Vedant Shetye](https://github.com/NOOBPOOK)
